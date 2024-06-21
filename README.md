@@ -12,10 +12,8 @@ Answer the following questions based on your understanding of the installation a
 
 
 Visit the official Visual Studio Code website (https://code.visualstudio.com/) and click on the "Download for Windows" button.
-image.png
 Once the download is complete, run the installer.
 Follow the installation wizard instructions, accepting the license agreement and selecting the destination folder.
-image.png
 
 
 2. First-time Setup:
